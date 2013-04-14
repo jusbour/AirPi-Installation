@@ -29,5 +29,7 @@ Jordan Burgess' Raspberry Pi iOS 6 Airplay installation procedure condensed into
 <p>If this worked for you, let me know in the comments at my blog, <a href="justin.swimlikepros.com">here</a>.</p>
 
 <h3>For More:</h3>
-<strong>Follow my blog: justin.swimlikepros.com
-Follow me on Twitter: @Justin_Harbour</strong>
+Follow my blog: <a href="justin.swimlikepros.com">justin.swimlikepros.com</a>
+
+Follow me on Twitter: <a class="twitter-timeline" href="https://twitter.com/justin_harbour" data-widget-id="260414662020046848">@justin_harbour</a>
+
