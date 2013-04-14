@@ -17,9 +17,11 @@ Jordan Burgess' Raspberry Pi iOS 6 Airplay installation procedure condensed into
 </ol>
 
 <h3>Installation</h3>
-<p>Here's the fun part: the installation.  I've condensed it down to the following four commands: just copy and paste them one by one into the terminal:</p>
+<p>Here's the fun part: the installation.  I've condensed it down to the following six commands: just copy and paste them one by one into the terminal:</p>
 
+    sudo apt-get install git-core
     git clone https://github.com/LikeABoss-001/AirPi-Installation.git
+    cd AirPi-Installation
     sudo cp install2.sh ..
     cd
     sudo bash install2.sh
