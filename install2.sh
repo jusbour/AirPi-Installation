@@ -24,3 +24,5 @@ sudo cp /Raspberry-Pi-Airplay/shairport.init.sample /etc/init.d/shairport
 cd /etc/init.d
 sudo chmod a+x shairport
 sudo update-rc.d shairport defaults
+cd
+sudo /etc/init.d/shairport start
